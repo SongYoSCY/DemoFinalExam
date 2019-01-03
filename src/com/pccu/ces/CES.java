@@ -30,6 +30,7 @@ public class CES extends Student {
 		 * */
 	}
 	
+	
 	private static void ScoreEnrollment () {
 		
 		int cnt = 3;
